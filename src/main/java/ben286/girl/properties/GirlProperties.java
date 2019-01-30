@@ -1,4 +1,4 @@
-package ben286.girl;
+package ben286.girl.properties;
 
 /*
 Created by Ben Wen on 2019/1/25.
